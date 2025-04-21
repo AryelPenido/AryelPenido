@@ -1,71 +1,12 @@
-# 👋 Hi, I'm Aryel Penido
+# 💫 About Me:
+👩🏻‍💻 Software Engineer with a focus on back-end<br>👩🏻‍🎓 Studied Computer Science at the University of Viçosa,Brazil<br>💭 Currently doing a  Postgrad in Distributed Software Architecture at PUC Minas, Brazil<br>
 
-I'm a passionate **Back-End Developer** from Brazil, currently focused on building scalable and reliable systems using **.NET**, **Azure**, and modern architecture patterns like **microservices** and **event-driven design**.
 
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AryelPenido&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AryelPenido&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryelPenido&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 Tech Stack
-
-<table>
-  <tr>
-    <th>🔧 Back-end</th>
-    <th>🖼️ Front-end</th>
-    <th>☁️ DevOps & Cloud</th>
-  </tr>
-  <tr>
-    <td>
-
-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-    </td>
-    <td>
-
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-- ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)  
-- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-    </td>
-    <td>
-
-- ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)  
-- ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
-- ![Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Education
-
-🎓 **Postgrad in Distributed Software Architecture**  
-📍 *PUC Minas (2024 - 2025)*
-
-🎓 **BSc in Computer Science**  
-📍 *Universidade Federal de Viçosa (2018 - 2023)*
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryel-cruz)  
-📫 **Email:** aryelpenido@gmail.com  
-📱 **WhatsApp:** +55 31 99521-7042  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AryelPenido)
-
----
-
-## 📊 GitHub Stats
-
-![Aryel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryelPenido&show_icons=true&theme=radical&hide_border=true)  
-
----
-
-✨ _Let's build something amazing together!_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
